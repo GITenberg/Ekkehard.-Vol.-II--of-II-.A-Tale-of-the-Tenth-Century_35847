@@ -1,0 +1,36 @@
+_repo: Ekkehard.-Vol.-II--of-II-.A-Tale-of-the-Tenth-Century_35847
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Delffs, Sofie
+    gutenberg_agent_id: '37934'
+    url: http://www.gutenberg.org/2009/agents/37934
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scheffel, Joseph Victor von
+    aliases:
+    - Scheffel, J. von (Joseph)
+    - Scheffel, Joseph Victor von
+    - Von Scheffel, Joseph Viktor
+    birthdate: 1826
+    deathdate: 1886
+    gutenberg_agent_id: '35144'
+    url: http://www.gutenberg.org/2009/agents/35144
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Viktor_von_Scheffel
+description: ''
+gutenberg_issued: '2011-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35847'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Hedwig, Herzogin von Schwaben, approximately 938-994 -- Fiction'
+title: 'Ekkehard: A Tale of the Tenth Century. Vol. 2 (of 2)'
+url: http://www.gutenberg.org/ebooks/35847
